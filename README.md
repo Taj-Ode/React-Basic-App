@@ -1,6 +1,6 @@
 # Expense Tracker
 
-I created this project while following the online Udemy React course called React - The Complete Guide (incl Hooks, React Router, Redux).
+I created this project while following the course called React - The Complete Guide (incl Hooks, React Router, Redux) on Udemy.
 The intention was to practice basic, core React concepts and strengthen my React knowledge.
 
 # Getting Started with Create React App
